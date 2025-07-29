@@ -94,4 +94,4 @@ if __name__ == "__main__":
         server.aggregate(DRONE_AGENTS)
         server.distribute(DRONE_AGENTS)
 
-    print("\n✅ Simulation complete. Drones now share a global policy.")
+    print("\n Simulation complete. Drones now share a global policy.")
