@@ -1,6 +1,7 @@
 """
 Federated Multi-Agent Drone Swarm (Prototype)
-Author: YOUR NAME
+Author: Moshish Chaudhary
+
 
 Goal: Simulate multiple drone agents learning from camera input (Vision Transformer)
 and sharing knowledge via federated learning to create a shared global policy.
